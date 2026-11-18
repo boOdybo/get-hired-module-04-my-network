@@ -1,5 +1,14 @@
 # GET HIRED — Module 04: MY NETWORK
 
+[افتح العرض المحدّث](https://boodybo.github.io/get-hired-module-04-my-network/) · [فهرس الوحدات 01–15](https://boodybo.github.io/get-hired-module-06-my-digital-presence/modules.html)
+
+النسخة الحالية في `docs/index.html` وتضم 13 شريحة بالصور والحركة وخط Alexandria. حوّل أدلة مريم إلى Headline وAbout، ثم خصص دعوة تواصل تكون مفهومة للمستلم.
+
+يعمل العرض محليًا عند فتح الملف مباشرة. استخدم الفهرس أو الأسهم للانتقال بين الشرائح.
+
+<details>
+<summary>إرشادات الإصدار السابق وملفاته المساندة</summary>
+
 [فتح العرض التفاعلي](https://boodybo.github.io/get-hired-module-04-my-network/)
 
 ## Main presentation
@@ -36,3 +45,5 @@ The profile builder does not send data anywhere automatically. Review and anonym
 
 ## Important
 The fictional graduate profile and sample Headline/About text are teaching examples only. Students must use their own truthful skills, projects, and career direction. Grammarly compatibility with LinkedIn text fields may vary; use Grammarly Editor or a manual review checklist if the browser extension is not supported.
+
+</details>
